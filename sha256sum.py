@@ -1,7 +1,6 @@
 from tqdm import tqdm
 import easygui
 import hashlib
-import sys
 import optparse
 
 class sha256sum():
